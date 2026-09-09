@@ -1,0 +1,16 @@
+http:
+  port: 80
+  baseURL: "/"
+
+server:
+  sources:
+    - path: "/srv"
+
+auth:
+  methods:
+    password:
+      enabled: true
+      minLength: 5
+      signup: false
+    passkey:
+      enabled: false
