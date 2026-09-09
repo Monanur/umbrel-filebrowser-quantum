@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#062b5c"/>
+      <stop offset="1" stop-color="#02091f"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16d9ff"/>
+      <stop offset="1" stop-color="#0755ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="12" y="12" width="488" height="488" rx="92"
+        fill="url(#bg)" stroke="#14d9ff" stroke-width="10"/>
+
+  <path d="M108 322 L150 150 Q157 116 190 116 H330
+           L306 184 H205 Q190 184 186 202 L178 231 H286
+           L265 294 H162 L151 347 Q145 376 116 376 H82 Z"
+        fill="url(#blue)"/>
+
+  <path d="M119 322 L160 151 Q168 123 194 123 H327 L307 177
+           H205 Q184 177 178 202 L169 239 H278 L260 286 H157
+           L145 345 Q140 365 120 365 H99 Z"
+        fill="#f4f8ff"/>
+
+  <path d="M275 219 H377 L398 244 H439 Q457 244 457 263 V379
+           Q457 397 439 397 H237 Q219 397 219 379 V263
+           Q219 245 237 245 H268 Z"
+        fill="url(#blue)"/>
+
+  <path d="M249 250 H378 L396 273 H438 Q449 273 449 285 V374
+           Q449 386 437 386 H239 Q229 386 229 374 V269
+           Q229 250 249 250 Z"
+        fill="#f4f8ff"/>
+
+  <circle cx="349" cy="322" r="45" fill="none"
+          stroke="#0755ff" stroke-width="18"/>
+
+  <path d="M381 354 L414 387"
+        stroke="#0755ff" stroke-width="18"
+        stroke-linecap="round"/>
+</svg>

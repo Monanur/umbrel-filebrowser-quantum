@@ -1,0 +1,33 @@
+manifestVersion: 1.2
+
+id: filebrowser-quantum
+name: FileBrowser Quantum
+
+icon: icon.svg
+
+version: "1.5.6"
+
+tagline: Modern NAS file manager
+
+category: files
+
+description: >-
+  FileBrowser Quantum is a modern self-hosted file manager
+  with previews, search and NAS file management features.
+
+developer: FileBrowser Quantum Community
+
+website: https://filebrowserquantum.com
+
+repo: https://github.com/gtsteffaniak/filebrowser
+
+support: https://github.com/gtsteffaniak/filebrowser/issues
+
+port: 80
+
+path: ""
+
+dependencies: []
+
+defaultUsername: admin
+defaultPassword: admin
